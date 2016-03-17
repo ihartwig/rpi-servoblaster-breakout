@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LVC4245A
+D Octal dual supply translating transceiver; 3-state
+K TTL BUFFER 3State BUS
+$ENDCMP
+#
+#End Doc Library
