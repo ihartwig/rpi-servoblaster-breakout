@@ -1,4 +1,4 @@
-# servoblaster-breakout
+# rpi-servoblaster-breakout
 
 [Order from DirtyPCB now!](http://dirtypcbs.com/view.php?share=18349&accesskey=)
 
