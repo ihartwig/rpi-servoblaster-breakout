@@ -2,7 +2,7 @@
 
 [Order from DirtyPCB now!](http://dirtypcbs.com/view.php?share=18349&accesskey=)
 
-![board rendering](https://github.com/ihartwig/servoblaster-breakout/blob/master/board/preview.png)
+![board rendering](https://github.com/ihartwig/servoblaster-breakout/blob/master/pcb/preview.png)
 
 Servo breakout for RPi 0/1/2 based on the [servoblaster](https://github.com/richardghirst/PiBits/tree/master/ServoBlaster)/pi-blaster software. This board supports the default location of 8 servos. In most cases it passively wires the servos to the right pins with shared power and ground rails. A level shifter can be added if your servos require a logic pulse above the RPi's 3.3V. The board is small to reduce cost and fit on both Pi 1 and Pi 0.
 
